@@ -19,7 +19,7 @@ We created these different graphs.
 <img src="Analysis/Fig5.png" width="250"><img src="Analysis/Fig6.png" width="250"><img src="Analysis/Fig7.png" width="250">
 
 ## Challenge Overview
-We've been tasked with creatimg a Summary DataFrame with all the key metrics of the ride-sharing data by city type, and a multi-line graph showing the aveage fare for each week in specific time-period by each city type.
+We've been tasked with creatimg a Summary DataFrame with all the key metrics of the ride-sharing data by city type, and a multi-line graph showing the average fare for each week in specific time-period by each city type.
 
 ## Challenge Summary
 We created the Summary DataFrame showing the Total Rides, Drivers, Fares count, and the average fares per ride and per driver.
